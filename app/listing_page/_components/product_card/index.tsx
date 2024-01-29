@@ -1,3 +1,5 @@
+'use client'
+
 interface IProduct{
     tittle:string,
     subTitle:string,
