@@ -1,4 +1,4 @@
-export const data={
+export const mockdata={
   "status": "success",
   "message": "Success",
   "response": {
